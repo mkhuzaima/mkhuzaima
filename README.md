@@ -1,16 +1,27 @@
-- 👋 Hi, I’m @mkhuzaima
-- 👀 I’m interested in building amazing projects.
-- 🌱 I’m currently learning C++, java, python.
-- 💞️ I’m looking to collaborate on ... simple problems
-- 📫 How to reach me ... You can contact me on my email address: mkhuzaimaumair@gmail.com
+<h1 align="center"> 👋 Hi, I’m Muhammad Khuzaima</h1>
+<p align="center"> A Passionate Programmer and Software Developer </p>
+
 
 <!---
 mkhuzaima/mkhuzaima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mkhuzaima&label=PROFILE+VIEWS" alt="Khuzaima"> </p>
+<p >
 
-## Contribution Graph
-[![mkhuzaima's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mkhuzaima&theme=rogue)](https://github.com/mkhuzaima)
+
+<a href="https://stackoverflow.com/users/15438360/muhammad-khuzaima-umair">
+<img width="18%" src="https://github-readme-stackoverflow.vercel.app/?userID=15438360&theme=dark" alt="Stack Overflow Stats" align="right">
+</a>
+
+
+<img width="77%" src="https://activity-graph.herokuapp.com/graph?username=mkhuzaima&theme=rogue" alt="GitHub Contribution Graph" align="left">
+
+</br></br></br></br></br></br></br></br></br></br></br></br>
+</p>
+
+<!---## Contribution Graph--->
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkhuzaima&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
