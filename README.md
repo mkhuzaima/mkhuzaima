@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 <img width="18%" src="https://github-readme-stackoverflow.vercel.app/?userID=15438360&theme=dark" alt="Stack Overflow Stats" align="right">
 </a>
 
-
-<img width="77%" src="https://activity-graph.herokuapp.com/graph?username=mkhuzaima&theme=rogue" alt="GitHub Contribution Graph" align="left">
+<!-- https://activity-graph.herokuapp.com/graph?username=mkhuzaima&theme=rogue -->
+<img width="77%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mkhuzaima&theme=github-compact" alt="GitHub Contribution Graph" align="left">
 
 </br></br></br></br></br></br></br></br></br></br></br></br>
 </p>
