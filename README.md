@@ -7,19 +7,19 @@ mkhuzaima/mkhuzaima is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mkhuzaima&label=PROFILE+VIEWS" alt="Khuzaima"> </p>
+<!-- 
 <p >
-
 
 <a href="https://stackoverflow.com/users/15438360/muhammad-khuzaima-umair">
 <img width="18%" src="https://github-readme-stackoverflow.vercel.app/?userID=15438360&theme=dark" alt="Stack Overflow Stats" align="right">
 </a>
 
-<!-- https://activity-graph.herokuapp.com/graph?username=mkhuzaima&theme=rogue -->
 <img width="77%" src="https://github-readme-activity-graph.cyclic.app/graph?username=mkhuzaima&theme=github-compact" alt="GitHub Contribution Graph" align="left">
 
 </br></br></br></br></br></br></br></br></br></br></br></br>
-</p>
 
+</p>
+ -->
 <!---## Contribution Graph--->
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
