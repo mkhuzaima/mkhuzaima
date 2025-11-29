@@ -52,12 +52,18 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkhuzaima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkhuzaima&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkhuzaima&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mkhuzaima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" alt="stats graph" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=mkhuzaima&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=mkhuzaima&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
