@@ -36,6 +36,7 @@
 - **VS Code**: [Set DragData when directory is dragged](https://github.com/microsoft/vscode/pull/243656)
 
 <br>
+
 ### 🛠️ Tech Stack
 
 | Category | Skills |
